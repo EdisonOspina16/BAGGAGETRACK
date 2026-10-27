@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743899384556",
+    "project_id": "makeup-e5058",
+    "storage_bucket": "makeup-e5058.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743899384556:android:4b793c4ba73e56e081b3c9",
+        "android_client_info": {
+          "package_name": "com.example.baggage_track_shell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIYtFkE5xWQEh36NXVApOPbv63uhmMUzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743899384556:android:d2049ec85d80ccad81b3c9",
+        "android_client_info": {
+          "package_name": "com.example.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIYtFkE5xWQEh36NXVApOPbv63uhmMUzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
